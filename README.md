@@ -1,6 +1,6 @@
-# [roberto] <img src="https://media.tenor.com/n687ZH_IIUYAAAAi/seriously-timmy-turner.gif" width="60px">
+# [roberto] <img src="https://media.tenor.com/n687ZH_IIUYAAAAi/seriously-timmy-turner.gif" width="80px">
 
-Eu sou <strong>Roberto</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Roberto</strong>, <strong>tenho 15 anos,estudo no Senac-Recife</strong> 👨🏻‍💻 
 
 - 🙎🏽 Atualmente estou aprendendo: <strong>javascript</strong> 
 - 💬 Pergunte-me sobre: <strong>Lutar e treinar</strong>
