@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Roberto <img src="https://media.tenor.com/n687ZH_IIUYAAAAi/seriously-timmy-turner.gif" width="80px" />
 
-<!--
-**beto211008/beto211008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou o **João Roberto**, tenho **16 anos** e estudo no **Senac Mediotec Recife**.
 
-Here are some ideas to get you started:
+🎓 **Curso atual:** Desenvolvimento de Sistemas – módulo 2/3  
+🌐 **Idiomas:** Português (fluente) | Inglês *B1*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Conhecimentos em programação:
+- HTML (básico)
+- CSS (básico)
+- Python (básico)
+- JavaScript (básico)
+- C (básico)
+- SQL (básico)
+### 🚀 Sobre mim:
+  Tenho perfil de liderança, sei me comunicar bem e gosto de assumir responsabilidades quando necessário. Não fujo de desafios e estou sempre disposto a sair da zona de conforto para crescer como desenvolvedor e como pessoa. Valorizo um ambiente de colaboração e estou sempre aberto a feedbacks que me ajudem a melhorar.
+Atualmente, estou focado em consolidar minha base em programação e começar a criar projetos próprios, para colocar em prática o que aprendo no curso técnico. Meu objetivo é, aos poucos, entrar no mercado de tecnologia com um bom portfólio e muita vontade de contribuir.
+
+---
+📫 Entre em contato: *joaor8087@gmail.com*  
