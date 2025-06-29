@@ -3,8 +3,7 @@
 Olá! Eu sou o **João Roberto**, tenho **16 anos** e estudo no **Senac Mediotec Recife**.
 
 🎓 **Curso técnico atual:** Desenvolvimento de Sistemas – módulo 2/3  
-🌐 **Idiomas:** Português (fluente) | Inglês *B1* ![Certificado](https://github.com/beto211008/README.md/blob/main/img/certificado-efset.png?raw=true)
-
+🌐 **Idiomas:** Português (fluente) | Inglês *B1*
 ### 💻 Conhecimentos em programação:
 - HTML (básico)
 - CSS (básico)
